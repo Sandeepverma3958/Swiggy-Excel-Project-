@@ -125,18 +125,4 @@ The dashboard provides a centralized view of sales and operational performance, 
 
 ---
 
-## 🎤 Interview Explanation
-
-### What business problem did you solve?
-
-> I created an Excel-based Swiggy Sales Analysis Dashboard to transform raw sales, order, restaurant, and customer-rating data into an interactive business reporting solution. The dashboard helps stakeholders monitor KPIs, identify sales and demand trends, compare restaurant and regional performance, and support data-driven decisions.
-
-### Why did you use Excel?
-
-> I used Excel because it provides powerful capabilities for data cleaning, analysis, Pivot Tables, Pivot Charts, slicers, and interactive reporting. It is also widely used in business environments for operational and management reporting.
-
-### What business decisions can this dashboard support?
-
-> It can support decisions related to sales monitoring, promotional planning, restaurant performance, regional performance, customer demand, and operational planning.
-
 ---
